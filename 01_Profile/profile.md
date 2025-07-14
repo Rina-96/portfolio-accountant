@@ -47,3 +47,21 @@
 - **Automation:** Excel (Pivot Tables, **Power Query**), **VBA** macros for process automation,**AI Utilization Skills**
 - **Accounting:** K-IFRS, K-GAAP, US-GAAP; Financial reporting, consolidation, lease accounting, fixed asset management
 - **Languages:** Korean (Native), English (Professional working proficiency)
+
+## 📂 포트폴리오 구성 안내
+
+```
+portfolio-accountant/
+├── 01_Profile/                👉 포트폴리오 대표 소개 및 이력 개요 (이 파일)
+│   └── profile.md
+├── 02_Macro_Summary/          👉 자동화 프로젝트 개요
+│   ├── macro_summary.md
+│   └── images/
+│       ├── arap_summary.png
+│       └── clearing_code.png
+├── 03_Collaboration_Projects/ 👉 협업 기반 실무 프로젝트 정리
+    ├── asset_audit_process.md
+    ├── new_project_doc.md
+    └── finance_lease_review.md
+```
+
