@@ -63,7 +63,8 @@
     <img src="./assets/cert_finance.png" width="200">
   </td>
 </tr>
-
+</tbody>
+</table>
 
 
 <br/>
