@@ -24,41 +24,38 @@
 
 <h2>📄 자격 / 어학 / 수상</h2>
 
-<table style="width:100%; border-collapse:collapse; text-align:center;" border="1">
+<table style="border-collapse: collapse; width:700px; text-align:center; font-size:14px; margin:auto;">
   <thead>
     <tr>
-      <th>구분</th>
-      <th>IFRS 관리사</th>
-      <th>재경관리사 (국가공인)</th>
+      <th style="border: 1px solid #ccc; padding:6px;">구분</th>
+      <th style="border: 1px solid #ccc;">IFRS 관리사</th>
+      <th style="border: 1px solid #ccc;">재경관리사 (국가공인)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>취득일</td>
-      <td>2023.11</td>
-      <td>2023.12</td>
+      <td style="border: 1px solid #ccc;">취득일</td>
+      <td style="border: 1px solid #ccc;">2023.11</td>
+      <td style="border: 1px solid #ccc;">2023.12</td>
     </tr>
     <tr>
-      <td>발급기관</td>
-      <td>한국CFO협회</td>
-      <td>삼일회계법인</td>
+      <td style="border: 1px solid #ccc;">발급기관</td>
+      <td style="border: 1px solid #ccc;">한국CFO협회</td>
+      <td style="border: 1px solid #ccc;">삼일회계법인</td>
     </tr>
     <tr>
-      <td>평가</td>
-      <td>S급</td>
-      <td>
-        재무회계 100점<br>
-        세무회계 85점<br>
-        원가관리회계 90점
-      </td>
+      <td style="border: 1px solid #ccc;">평가</td>
+      <td style="border: 1px solid #ccc;">S급</td>
+      <td style="border: 1px solid #ccc;">재무회계 100점<br>세무회계 85점<br>원가관리회계 90점</td>
     </tr>
     <tr>
-      <td>사본</td>
-      <td><img src="./assets/cert_ifrs.png" width="200"></td>
-      <td><img src="./assets/cert_finance.png" width="200"></td>
+      <td style="border: 1px solid #ccc;">사본</td>
+      <td style="border: 1px solid #ccc;"><img src="./assets/cert_ifrs.png" width="180"></td>
+      <td style="border: 1px solid #ccc;"><img src="./assets/cert_finance.png" width="180"></td>
     </tr>
   </tbody>
 </table>
+
 
 
 
