@@ -55,16 +55,15 @@
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc;">사본</td>
-      <td style="border: 1px solid #ccc; min-width: 220px;">
-        <img src="./assets/cert_ifrs.png" width="180">
-      </td>
-      <td style="border: 1px solid #ccc; min-width: 220px;">
-        <img src="./assets/cert_finance.png" width="180">
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <td style="border: 1px solid #ccc;">사본</td>
+  <td style="border: 1px solid #ccc; min-width: 240px;">
+    <img src="./assets/cert_ifrs.png" width="200">
+  </td>
+  <td style="border: 1px solid #ccc; min-width: 240px;">
+    <img src="./assets/cert_finance.png" width="200">
+  </td>
+</tr>
+
 
 
 <br/>
