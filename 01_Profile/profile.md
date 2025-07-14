@@ -1,73 +1,69 @@
-## 👤 About Me
+<!-- 전체 영역을 감싸서 너비 통일 -->
+<div align="center" style="max-width: 720px; margin: auto; font-family: sans-serif;">
 
-<table>
+<h2>👤 About Me</h2>
+
+<table style="border-collapse: collapse;">
   <tr>
-    <td width="250" align="center">
-      <img src="./assets/profile_accounting.png" width="220" alt="프로필 이미지" />
+    <td style="padding-right: 20px;">
+      <img src="./assets/profile_accounting.png" alt="프로필 이미지" width="180">
     </td>
     <td>
-
-| 항목         | 내용                                             |
-|--------------|--------------------------------------------------|
-| **이름**     | 최혜림 (Choi Hye-rim)                            |
-| **생년월일** | 1996년 1월 12일                                  |
-| **이메일**   | [chimo96@naver.com](mailto:chimo96@naver.com)   |
-| **학력**     | 인하대학교 글로벌금융학과 졸업 (경제학 부전공)   |
-| **졸업연도** | 2022년 2월                                       |
-| **자격시험** | CPA시험 준비경험 있음 (불합격 후 실무 커리어 시작) |
-
-</td>
+      <table style="border-collapse: collapse; font-size: 14px;">
+        <tr><th style="border: 1px solid #ccc; padding: 6px;">항목</th><th style="border: 1px solid #ccc; padding: 6px;">내용</th></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 6px;">이름</td><td style="border: 1px solid #ccc; padding: 6px;">최혜림 (Choi Hye-rim)</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 6px;">생년월일</td><td style="border: 1px solid #ccc; padding: 6px;">1996년 1월 12일</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 6px;">이메일</td><td style="border: 1px solid #ccc; padding: 6px;"><a href="mailto:chimo96@naver.com">chimo96@naver.com</a></td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 6px;">학력</td><td style="border: 1px solid #ccc; padding: 6px;">인하대학교 글로벌금융학과 졸업 (경제학 부전공)</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 6px;">졸업연도</td><td style="border: 1px solid #ccc; padding: 6px;">2022년 2월</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 6px;">자격시험</td><td style="border: 1px solid #ccc; padding: 6px;">CPA시험 준비경험 있음 (불합격 후 실무 커리어 시작)</td></tr>
+      </table>
+    </td>
   </tr>
 </table>
 
-
+<br/>
 
 <h2>📄 자격 / 어학 / 수상</h2>
 
-<table style="border-collapse: collapse; width: 100%; max-width: 700px; text-align: center; font-size: 14px; margin: auto;">
-  <thead>
-    <tr>
-      <th style="border: 1px solid #ccc; padding:6px;">구분</th>
-      <th style="border: 1px solid #ccc;">IFRS 관리사</th>
-      <th style="border: 1px solid #ccc;">재경관리사 (국가공인)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border: 1px solid #ccc;">취득일</td>
-      <td style="border: 1px solid #ccc;">2023.11</td>
-      <td style="border: 1px solid #ccc;">2023.12</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #ccc;">발급기관</td>
-      <td style="border: 1px solid #ccc;">한국CFO협회</td>
-      <td style="border: 1px solid #ccc;">삼일회계법인</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #ccc;">평가</td>
-      <td style="border: 1px solid #ccc;">S급</td>
-      <td style="border: 1px solid #ccc;">
-        재무회계 100점<br>
-        세무회계 85점<br>
-        원가관리회계 90점
-      </td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #ccc;">&nbsp;</td>
-      <td colspan="2" style="border: 1px solid #ccc; height:1px; padding:0;">
-        <div style="width:680px;"></div>
-      </td>
-    </tr>
-  </tbody>
+<table style="border-collapse: collapse; font-size: 14px; text-align: center; width: 100%;">
+  <tr>
+    <th style="border: 1px solid #ccc; padding: 6px;">구분</th>
+    <th style="border: 1px solid #ccc; padding: 6px;">IFRS 관리사</th>
+    <th style="border: 1px solid #ccc; padding: 6px;">재경관리사 (국가공인)</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ccc; padding: 6px;">취득일</td>
+    <td style="border: 1px solid #ccc; padding: 6px;">2023.11</td>
+    <td style="border: 1px solid #ccc; padding: 6px;">2023.12</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ccc; padding: 6px;">발급기관</td>
+    <td style="border: 1px solid #ccc; padding: 6px;">한국CFO협회</td>
+    <td style="border: 1px solid #ccc; padding: 6px;">삼일회계법인</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ccc; padding: 6px;">평가</td>
+    <td style="border: 1px solid #ccc; padding: 6px;">S급</td>
+    <td style="border: 1px solid #ccc; padding: 6px;">재무회계 100점<br>세무회계 85점<br>원가관리회계 90점</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ccc; padding: 6px;">사본</td>
+    <td style="border: 1px solid #ccc; padding: 6px;"><img src="./assets/cert_ifrs.png" width="180"></td>
+    <td style="border: 1px solid #ccc; padding: 6px;"><img src="./assets/cert_finance.png" width="180"></td>
+  </tr>
 </table>
 
+<br/>
 
+<h3>📌 기타 수상 이력</h3>
 
+<ul style="text-align: left;">
+  <li>인하대학교 글로벌금융학과 <strong>성적우수상 수상</strong> (2019년 1학기, 4학년 수석)</li>
+</ul>
 
+</div>
 
-
-📌 **기타 수상 이력**  
-- 인하대학교 글로벌금융학과 **성적우수상 수상** (2019년 1학기, 4학년 수석)
   
 
 ---
