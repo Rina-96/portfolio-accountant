@@ -22,10 +22,14 @@
 
 ### 💻 자동화 화면 예시
 
-![ARAP Summary Screen 1](./images/arap_summary_1.png)  
-![ARAP Summary Screen 2](./images/arap_summary_2.png)  
+<p align="center">
+  <img src="https://github.com/your-id/your-repo/blob/main/02_Macro_Summary/images/arap_summary_1.png?raw=true" width="47%">
+  <img src="https://github.com/your-id/your-repo/blob/main/02_Macro_Summary/images/arap_summary_2.png?raw=true" width="47%">
+</p>
+<p align="center">
 
-💬 *이 화면은 ERP 회계 시스템 구조 설명을 위한 가공된 예시이며, 실제 회사명 및 금액은 임의로 수정된 값입니다.*
+ 💬 본 이미지는 실제 VBA 자동화 엑셀 파일에서 캡처한 화면이며, 민감한 정보(금액, 전표번호 등)는 모두 블라인드 처리되었습니다.
+</p>
 
 ---
 
@@ -43,10 +47,13 @@
   - 월 5시간 이상의 입력 시간 절감, 오류 발생률 대폭 감소  
 
 ### 💻 자동화 화면 예시
-
-![Clearing Code Screen 1](./images/clearing_code_1.png)  
-![Clearing Code Screen 2](./images/clearing_code_2.png)  
-
-💬 *이 화면은 ERP 회계 시스템 구조 설명을 위한 가공된 예시이며, 실제 회사명 및 금액은 임의로 수정된 값입니다.*
+<p align="center">
+  <img src="https://github.com/your-id/your-repo/blob/main/02_Macro_Summary/images/clearing_code_1.png?raw=true" width="47%">
+  <img src="https://github.com/your-id/your-repo/blob/main/02_Macro_Summary/images/clearing_code_2.png?raw=true" width="47%">
+</p>
+<p align="center">
+  
+ 💬 본 이미지는 실제 VBA 자동화 엑셀 파일에서 캡처한 화면이며, 민감한 정보(금액, 전표번호 등)는 모두 블라인드 처리되었습니다.
+</p>
 
 ---
