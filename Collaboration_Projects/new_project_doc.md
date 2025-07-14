@@ -37,7 +37,7 @@
 
 ## 📸 이미지 예시
 
-| ![new_project_1](../images/new_project_1.png) | ![new_project_2](../images/new_project_2.png) |
+| ![new_project_1](./images/new_project_1.png) | ![new_project_2](./images/new_project_2.png) |
 |:--:|:--:|
 | 신사업 결산프로세스 workflow | 결산 도식화 flowchart |
 
