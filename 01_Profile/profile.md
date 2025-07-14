@@ -24,7 +24,8 @@
 
 <h2>📄 자격 / 어학 / 수상</h2>
 
-<table style="border-collapse: collapse; width:700px; text-align:center; font-size:14px; margin:auto;">
+<div style="width:700px; margin:auto;">
+<table style="border-collapse: collapse; width:100%; text-align:center; font-size:14px;">
   <thead>
     <tr>
       <th style="border: 1px solid #ccc; padding:6px;">구분</th>
@@ -46,7 +47,11 @@
     <tr>
       <td style="border: 1px solid #ccc;">평가</td>
       <td style="border: 1px solid #ccc;">S급</td>
-      <td style="border: 1px solid #ccc;">재무회계 100점<br>세무회계 85점<br>원가관리회계 90점</td>
+      <td style="border: 1px solid #ccc;">
+        재무회계 100점<br>
+        세무회계 85점<br>
+        원가관리회계 90점
+      </td>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc;">사본</td>
@@ -55,6 +60,8 @@
     </tr>
   </tbody>
 </table>
+</div>
+
 
 
 
