@@ -22,14 +22,43 @@
 
 
 
-## 📄 자격 / 어학 / 수상
+<h2>📄 자격 / 어학 / 수상</h2>
 
-| 구분     | IFRS 관리사 | 재경관리사 (국가공인) |
-|----------|--------------|------------------------|
-| 취득일   | 2023.11      | 2023.12                |
-| 발급기관 | 한국CFO협회  | 삼일회계법인           |
-| 평가     | S급          | 재무회계 100점<br>세무회계 85점<br>원가관리회계 90점 |
-| 사본     | <img src="./assets/cert_ifrs.png" width="220"/> | <img src="./assets/cert_finance.png" width="220"/> |
+<table border="1" width="100%" align="center" style="text-align:center;">
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>IFRS 관리사</th>
+      <th>재경관리사 (국가공인)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>취득일</td>
+      <td>2023.11</td>
+      <td>2023.12</td>
+    </tr>
+    <tr>
+      <td>발급기관</td>
+      <td>한국CFO협회</td>
+      <td>삼일회계법인</td>
+    </tr>
+    <tr>
+      <td>평가</td>
+      <td>S급</td>
+      <td>
+        재무회계 100점<br>
+        세무회계 85점<br>
+        원가관리회계 90점
+      </td>
+    </tr>
+    <tr>
+      <td>사본</td>
+      <td><img src="./assets/cert_ifrs.png" width="200"></td>
+      <td><img src="./assets/cert_finance.png" width="200"></td>
+    </tr>
+  </tbody>
+</table>
 
 
 📌 **기타 수상 이력**  
