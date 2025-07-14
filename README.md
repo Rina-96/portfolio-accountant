@@ -1,4 +1,4 @@
-# 👩🏻‍💼 리나 - 재무회계 자동화 & 프로젝트 리딩 전문가
+# 👩🏻‍💼 리나 - 작은 개선을 좋아하는 실무형 회계 담당자
 
 ## 📌 주요 역량
 - **자동화를 통한 프로세스 개선능력:** Power Query와 Excel **VBA** 매크로를 활용해 반복적인 데이터 대사 및 전표 처리를 자동화하여 월 **9시간 이상**의 업무 시간을 절감했습니다.
@@ -24,7 +24,7 @@
 
 ---
 
-# 👩🏻‍💼 Rina - Accounting Automation & Project Leadership Specialist
+# 👩🏻‍💼 Rina - Detail-Oriented Accountant with a Passion for Small but Impactful Improvements
 
 ## 📌 Key Highlights
 - **Automating Inefficient Closing Tasks:** Streamlined repetitive month-end reconciliation and journal processes by leveraging **Power Query** and Excel **VBA** macros, saving over **9 hours** of work per month and improving overall process efficiency.
