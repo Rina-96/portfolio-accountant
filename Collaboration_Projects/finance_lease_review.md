@@ -41,7 +41,7 @@
 
 ## 📸 이미지 예시
 
-| ![lease_review_1](../images/lease_review_1.png) | ![lease_review_2](../images/lease_review_2.png) |
+| ![lease_review_1](./images/lease_review_1.png) | ![lease_review_2](./images/lease_review_2.png) |
 |:--:|:--:|
 | 계약 구조 분석 화면 | 회계처리 프로세스 설명 시트 |
 
