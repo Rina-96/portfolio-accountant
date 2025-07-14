@@ -1,17 +1,17 @@
+## 👤 About Me
+
 <table>
   <tr>
-    <td width="180" align="center">
-      <img src="./assets/profile_accounting.png" width="140" style="border-radius: 50%;" alt="프로필 이미지"/>
+    <td width="250" align="center">
+      <img src="./assets/profile_accounting.png" width="220" alt="프로필 이미지" />
     </td>
     <td>
-
-### 👤 About Me
 
 | 항목         | 내용                                             |
 |--------------|--------------------------------------------------|
 | **이름**     | 최혜림 (Choi Hye-rim)                            |
 | **생년월일** | 1996년 1월 12일                                  |
-| **이메일**   | chimo96@naver.com                                |
+| **이메일**   | [chimo96@naver.com](mailto:chimo96@naver.com)   |
 | **학력**     | 인하대학교 글로벌금융학과 졸업 (경제학 부전공)   |
 | **졸업연도** | 2022년 2월                                       |
 | **자격시험** | CPA시험 준비경험 있음 (불합격 후 실무 커리어 시작) |
@@ -19,6 +19,7 @@
 </td>
   </tr>
 </table>
+
 
 
 ## 📄 자격 / 어학 / 수상
