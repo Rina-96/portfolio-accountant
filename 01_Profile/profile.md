@@ -24,7 +24,7 @@
 
 <h2>📄 자격 / 어학 / 수상</h2>
 
-<table border="1" width="100%" align="center" style="text-align:center;">
+<table style="width:100%; border-collapse:collapse; text-align:center;" border="1">
   <thead>
     <tr>
       <th>구분</th>
@@ -59,6 +59,7 @@
     </tr>
   </tbody>
 </table>
+
 
 
 📌 **기타 수상 이력**  
