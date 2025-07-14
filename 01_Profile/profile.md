@@ -30,15 +30,15 @@
   <thead>
     <tr>
       <th style="border: 1px solid #ccc; padding: 6px;">구분</th>
-      <th style="border: 1px solid #ccc; padding: 6px;">IFRS 관리사</th>
-      <th style="border: 1px solid #ccc; padding: 6px;">재경관리사 (국가공인)</th>
+      <th style="border: 1px solid #ccc; padding: 6px; min-width: 220px;">IFRS 관리사</th>
+      <th style="border: 1px solid #ccc; padding: 6px; min-width: 220px;">재경관리사 (국가공인)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="border: 1px solid #ccc;">취득일</td>
-      <td style="border: 1px solid #ccc;">2023.11</td>
-      <td style="border: 1px solid #ccc;">2023.12</td>
+      <td style="border: 1px solid #ccc;">2023.11.17</td>
+      <td style="border: 1px solid #ccc;">2023.12.22</td>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc;">발급기관</td>
@@ -56,11 +56,16 @@
     </tr>
     <tr>
       <td style="border: 1px solid #ccc;">사본</td>
-      <td style="border: 1px solid #ccc;"><img src="./assets/cert_ifrs.png" width="180"></td>
-      <td style="border: 1px solid #ccc;"><img src="./assets/cert_finance.png" width="180"></td>
+      <td style="border: 1px solid #ccc; min-width: 220px;">
+        <img src="./assets/cert_ifrs.png" width="180">
+      </td>
+      <td style="border: 1px solid #ccc; min-width: 220px;">
+        <img src="./assets/cert_finance.png" width="180">
+      </td>
     </tr>
   </tbody>
 </table>
+
 
 <br/>
 
