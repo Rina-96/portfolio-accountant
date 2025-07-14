@@ -24,8 +24,7 @@
 
 <h2>📄 자격 / 어학 / 수상</h2>
 
-<div style="width:700px; margin:auto;">
-<table style="border-collapse: collapse; width:100%; text-align:center; font-size:14px;">
+<table style="border-collapse: collapse; width: 100%; max-width: 700px; text-align: center; font-size: 14px; margin: auto;">
   <thead>
     <tr>
       <th style="border: 1px solid #ccc; padding:6px;">구분</th>
@@ -54,13 +53,14 @@
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc;">사본</td>
-      <td style="border: 1px solid #ccc;"><img src="./assets/cert_ifrs.png" width="180"></td>
-      <td style="border: 1px solid #ccc;"><img src="./assets/cert_finance.png" width="180"></td>
+      <td style="border: 1px solid #ccc;">&nbsp;</td>
+      <td colspan="2" style="border: 1px solid #ccc; height:1px; padding:0;">
+        <div style="width:680px;"></div>
+      </td>
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
