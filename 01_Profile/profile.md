@@ -1,49 +1,56 @@
 <h2>👤 About Me</h2>
 
-<!-- 이미지 영역 -->
-<div style="text-align: center; margin-bottom: 10px;">
-  <img src="https://raw.githubusercontent.com/Rina-96/portfolio-accountant/main/01_Profile/assets/profile_accounting.png" 
-       alt="프로필 이미지" 
-       style="width: 150px; height: auto; border: 1px solid #ccc; border-radius: 6px;">
-</div>
+<table style="border-collapse: collapse;">
+  <tr>
+    <!-- 이미지 셀 -->
+    <td style="padding-right: 20px; vertical-align: top; border: 1px solid #ccc; padding: 6px;">
+      <img src="https://raw.githubusercontent.com/Rina-96/portfolio-accountant/main/01_Profile/assets/profile_accounting.png" 
+           alt="프로필 이미지" 
+           style="width: 140px; height: auto; display: block; border: 1px solid #ccc; border-radius: 6px;">
+    </td>
 
-<!-- 정보 표 -->
-<table style="border-collapse: collapse; font-size: 14px; width: 100%; max-width: 720px; margin: auto;">
-  <tr>
-    <th style="border: 1px solid #ccc; padding: 6px;">항목</th>
-    <th style="border: 1px solid #ccc; padding: 6px;">내용</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ccc; padding: 6px;">이름</td>
-    <td style="border: 1px solid #ccc; padding: 6px;">최혜림 (Choi Hye-rim)</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ccc; padding: 6px;">생년월일</td>
-    <td style="border: 1px solid #ccc; padding: 6px;">1996년 1월 12일</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ccc; padding: 6px;">이메일</td>
-    <td style="border: 1px solid #ccc; padding: 6px;">
-      <a href="mailto:chimo96@naver.com">chimo96@naver.com</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ccc; padding: 6px;">학력</td>
-    <td style="border: 1px solid #ccc; padding: 6px;">
-      인하대학교 글로벌금융학과 졸업 (경제학 부전공)
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ccc; padding: 6px;">졸업연도</td>
-    <td style="border: 1px solid #ccc; padding: 6px;">2022년 2월</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ccc; padding: 6px;">자격시험</td>
-    <td style="border: 1px solid #ccc; padding: 6px;">
-      CPA시험 준비경험 있음 (불합격 후 실무 커리어 시작)
+    <!-- 프로필 정보 표 -->
+    <td>
+      <table style="border-collapse: collapse; font-size: 14px;">
+        <tr>
+          <th style="border: 1px solid #ccc; padding: 6px;">항목</th>
+          <th style="border: 1px solid #ccc; padding: 6px;">내용</th>
+        </tr>
+        <tr>
+          <td style="border: 1px solid #ccc; padding: 6px;">이름</td>
+          <td style="border: 1px solid #ccc; padding: 6px;">최혜림 (Choi Hye-rim)</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid #ccc; padding: 6px;">생년월일</td>
+          <td style="border: 1px solid #ccc; padding: 6px;">1996년 1월 12일</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid #ccc; padding: 6px;">이메일</td>
+          <td style="border: 1px solid #ccc; padding: 6px;">
+            <a href="mailto:chimo96@naver.com">chimo96@naver.com</a>
+          </td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid #ccc; padding: 6px;">학력</td>
+          <td style="border: 1px solid #ccc; padding: 6px;">
+            인하대학교 글로벌금융학과 졸업 (경제학 부전공)
+          </td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid #ccc; padding: 6px;">졸업연도</td>
+          <td style="border: 1px solid #ccc; padding: 6px;">2022년 2월</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid #ccc; padding: 6px;">자격시험</td>
+          <td style="border: 1px solid #ccc; padding: 6px;">
+            CPA시험 준비경험 있음 (불합격 후 실무 커리어 시작)
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
+
 
 
 
