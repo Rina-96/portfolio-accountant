@@ -9,7 +9,7 @@
            style="width: 140px; height: auto; display: block; border: 1px solid #ccc; border-radius: 6px;">
     </td>
 
-    <!-- 프로필 정보 표 -->
+    <!-- 프로필 표 셀 -->
     <td>
       <table style="border-collapse: collapse; font-size: 14px;">
         <tr>
@@ -50,6 +50,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
