@@ -5,8 +5,11 @@
 
 <table style="border-collapse: collapse;">
   <tr>
-    <td style="padding-right: 20px;">
-      <img src="./assets/profile_accounting.png" alt="프로필 이미지" width="180">
+    <td style="padding-right: 20px; vertical-align: top;">
+      <img src="https://raw.githubusercontent.com/Rina-96/portfolio-accountant/main/01_Profile/assets/profile_accounting.png"
+           alt="프로필 이미지"
+           style="max-width: 100%; height: auto; border-radius: 8px;"
+           width="180">
     </td>
     <td>
       <table style="border-collapse: collapse; font-size: 14px;">
