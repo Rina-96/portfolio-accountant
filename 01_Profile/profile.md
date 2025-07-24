@@ -24,10 +24,11 @@
 
 [📄 국문 및 영문 이력서 보기](./%EA%B5%AD%EB%AC%B8%20%EB%B0%8F%20%EC%98%81%EB%AC%B8%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
 <br/>
-[📊 Presentation 확인하기](https://rina-96.github.io/portfolio-accountant/PRESENTATION.html)
+[📊 Presentation 확인하기](https://rina-96.github.io/portfolio-accountant/docs/PRESENTATION.html)
 <br/>
-※ Chrome 또는 Microsoft Edge에서 전체화면(F)으로 보시면,  
-버튼 클릭 외에도 마우스 hover만으로 작동하는 인터랙트 효과와 애니메이션을 함께 경험하실 수 있습니다.
+※ Presentation 자료는 지원자 최혜림의 실무 중심 포트폴리오를 시각화한 interactive PPT입니다.  
+Chrome 또는 Microsoft Edge에서 접속하신 후 전체화면(F) 모드로 보시면 보다 편리하게 감상하실 수 있습니다.  
+슬라이드에는 버튼 클릭 외에도 마우스를 올리는 것만으로 반응하는 hover interaction과 애니메이션 효과가 포함되어 있어, 각 항목을 자유롭게 탐색하며 상세 내용을 확인하실 수 있습니다.
 
 <br/>
 
