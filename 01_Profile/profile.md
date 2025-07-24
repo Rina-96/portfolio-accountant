@@ -24,7 +24,7 @@
 
 [📄 국문 및 영문 이력서 보기](./%EA%B5%AD%EB%AC%B8%20%EB%B0%8F%20%EC%98%81%EB%AC%B8%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
 <br/>
-[📊 Presentation 확인하기](https://rina-96.github.io/portfolio-accountant/assets/PRESENTATION.html)
+[📊 Presentation 확인하기](https://rina-96.github.io/portfolio-accountant/PRESENTATION.html)
 <br/>
 ※ Chrome 또는 Microsoft Edge에서 전체화면(F)으로 보시면,  
 버튼 클릭 외에도 마우스 hover만으로 작동하는 인터랙트 효과와 애니메이션을 함께 경험하실 수 있습니다.
